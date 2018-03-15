@@ -1,0 +1,32 @@
+============================================================
+**new topic**
+VCS
+	>Version Control System
+		>Do?
+		
+		**Categories**
+		1.)Centralized 
+			TOOL:
+				SVN-Sub version(project)
+		2.)Distributed
+			TOOL:
+				Git
+				Mercurial(project)
+=============================================================		
+Repository
+
+	*********************************************************
+	Addtional notes:
+	Master (Branch)
+	*********************************************************
+	>File storage
+	
+	git init
+	git status
+	git add ____
+	git commit -m "initial commit"
+	git remote add origin "link"
+	git push origin master
+	git log
+	git reset --hard (copy "smthing" from yellow line)
+	
