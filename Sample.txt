@@ -24,6 +24,8 @@ Repository
 	git init
 	git status
 	git add ____
+	git config --global user.email "email"
+	git config --global user.name "name"
 	git commit -m "initial commit"
 	git remote add origin "link"
 	git push origin master
